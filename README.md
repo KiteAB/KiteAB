@@ -9,7 +9,7 @@ These are some intro of me:
 
 Please follow my GitHub account and [Bilibili](https://space.bilibili.com/387229912) account, I sometimes share the **very useful skill** for you!
 
-| My GitHub Stats                                                                                                          | Language used most                                                                     |
-|--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| My GitHub Stats                                                                                                    | Language used most                                                                  |
+|--------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
 | ![KiteAB's github stats](https://github-readme-stats.vercel.app/api?username=KiteAB&show_icons=true&theme=onedark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiteAB) |
 
