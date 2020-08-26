@@ -6,7 +6,7 @@ These are some intro of me:
 - Favorite programming languages: Python, C++, Vim Script, Shell
 - Keyboard layout: Colemak
 - Code Editor: NeoVim & Emacs & GEdit
-- [KitPixel](https://github.com/KitPixel)'s original creator
+- Original creator of [KitPixel](https://github.com/KitPixel)
 
 Please follow my GitHub account and [Bilibili](https://space.bilibili.com/387229912) account, I sometimes share the **very useful skill** for you!
 
