@@ -5,9 +5,9 @@ These are some intro of me:
 - Favorite programming languages: Emacs Lisp, Python, C++, Vim Script, Shell
 - Keyboard layout: Colemak
 - Code Editor: [[https://github.com/KiteAB/.emacs.d][Emacs]]
-- Original creator of [KitPixel](https://github.com/KitPixel)
+- Original creator of [[https://github.com/KitPixel][KitPixel]]
 
-Please follow my GitHub account and [Bilibili](https://space.bilibili.com/387229912) account, I sometimes share the **very useful skill** for you!
+Please follow my GitHub account and [[https://space.bilibili.com/387229912][Bilibili]] account, I sometimes share the *very useful skill* for you!
 
 | My GitHub Stats                                                                          | Language used most                                                    |
 |------------------------------------------------------------------------------------------+-----------------------------------------------------------------------|
