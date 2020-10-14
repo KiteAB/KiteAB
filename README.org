@@ -1,5 +1,5 @@
 * Hello, World!
-  I'm a noob of Linux and a student.
+  What's up brooooooo, I'm a noob of Linux and a student.
 
   These are some intro of me:
   - Favorite programming languages: Emacs Lisp, Python, C++, Vim Script, Shell
