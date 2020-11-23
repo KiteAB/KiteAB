@@ -3,7 +3,7 @@
 
   These are some intro of me:
   - *Favorite Programming Languages*: Emacs Lisp, Python, C++, Vim Script, Shell
-  - *Keyboard Layout*: Colemak
+  - *Keyboard Layout*: [[https://colemak.com][Colemak]]
   - *Code Editor*: [[https://github.com/KiteAB/.emacs.d][Emacs]], [[https://github.com/KiteAB/nvim][NeoVim]]
   - Original *creator* of [[https://github.com/KitPixel][KitPixel]]
   
@@ -11,4 +11,3 @@
 
 ** Notes
    - My [[https://github.com/KiteAB/nvim][NeoVim Configuration]] repository is not maintain, I'm using [[https://github.com/KiteAB/.emacs.d][Emacs]] now.
-   - My studio [[https://github.com/KitPixel][KitPixel]] no longer recruits new. Please wait for the next application channel to open!
