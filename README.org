@@ -1,14 +1,14 @@
 * Hello, World!
-  Sup cuzz, I'm a noob of computer and a *student*.
+  Sup cuzz guys, I'm a noob of computer and a *student*.
 
   These are some intro of me:
   - *OS*: [[https://archlinux.org][Arch Linux]]
-  - *Favorite Programming Languages*: Emacs Lisp, Python, C++, Vim Script, Shell
+  - *Favorite Programming Languages*: Emacs Lisp, Python, C++, Minecraft Function, Vim Script, Shell
   - *Keyboard Layout*: [[https://colemak.com][Colemak]]
   - *Code Editor*: [[https://github.com/KiteAB/.emacs.d][Emacs]], [[https://github.com/KiteAB/nvim][NeoVim]]
-  - Original *creator* of [[https://github.com/KitPixel][KitPixel]]
+  - *Original Creator* of [[https://github.com/KitPixel][KitPixel]]
 
-  Please follow my GitHub account and [[https://space.bilibili.com/387229912][Bilibili]] account, I sometimes share the *very useful skill* for you!
+  Please follow my GitHub account and [[https://space.bilibili.com/387229912][Bilibili]] account, I sometimes share the *very useful skills and projects* for you!
 
 ** Notes
    - My [[https://github.com/KiteAB/nvim][NeoVim Configuration]] repository is archived, I'm using [[https://github.com/KiteAB/.emacs.d][Emacs]] now.
