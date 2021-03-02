@@ -7,8 +7,10 @@ Hi there!
 
 ### Where you can find me:
 
-Bilibili: @KiteAB
+Bilibili: [https://space.bilibili.com/387229912](@KiteAB)
 
-Telegram: @kiteab
+Telegram: [https://t.me/KiteAB](@KiteAB)
 
-QQ: 251877082
+Discord: KiteAB#9084
+
+QQ: 251877082 @K1t3AB
