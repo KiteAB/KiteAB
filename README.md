@@ -13,6 +13,8 @@ Hi there!
 
 Bilibili: [@KiteAB](https://space.bilibili.com/387229912)
 
+Telegram Group: @KiteAB_Group (Channel @KiteAB_Channel for announcements)
+
 Discord Group: jZHdZ2EDDj (Invite Code)
 
 QQ Group: 729395688
