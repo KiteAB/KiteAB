@@ -2,9 +2,12 @@
 
 I'm K1t3AB (Sometimes as `KiteAB`), a student studying in a middle school in Hunan, China.
 
-Telegram Group: @KiteAB_Group (Channel @KiteAB_Channel for announcements)
+Telegram Group: `@KiteAB_Group` (Channel `@KiteAB_Channel` for announcements)
 
-Notice:
+---
+
+#### 📣 Notices
+
 - The configuration file of GNU/Emacs is remaking.
 - Archiving repositories.
 
@@ -46,7 +49,7 @@ Notice:
 
 ---
 
-#### 🧑‍💻 Used Programming Language
+#### 🧑‍💻 Main Programming Languages
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -56,7 +59,7 @@ Notice:
 
 ---
 
-#### 🕹 Games
+#### 🕹  Games
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/KiteAB)
 ![Minecraft](https://img.shields.io/badge/KiteAB-green?style=for-the-badge&logo=Minecraft&logoColor=white)
