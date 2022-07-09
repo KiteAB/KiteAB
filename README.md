@@ -4,6 +4,8 @@ I'm K1t3AB (Sometimes as `KiteAB`), a student studying in a middle school in Hun
 
 Telegram Group: `@KiteAB_Group` (Channel `@KiteAB_Channel` for announcements)
 
+**⭐IMPORTANT⭐: Most archived repositories are VERY UNSTABLE or even UNUSABLE! Please look for another repositories to replace them, or test them carefully before using them.**
+
 ---
 
 #### 📣 Notices
