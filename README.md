@@ -1,6 +1,6 @@
 ### 👋 Hi there!
 
-I'm K1t3AB (Sometimes as `KiteAB`, `kiteab`), a student studying in a middle school in Hunan, China.
+I'm K1t3AB (Sometimes as `KiteAB`), a student studying in a middle school in Hunan, China.
 
 Telegram Group: `@KiteAB_Group` (Channel `@KiteAB_Channel` for announcements)
 
