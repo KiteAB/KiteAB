@@ -21,6 +21,11 @@ Telegram Group: `@KiteAB_Group` (Channel `@KiteAB_Channel` for announcements)
 | ------------- | ------------- |
 
 <!--START_SECTION:waka-->
+
+```text
+Kotlin   5 mins          █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
