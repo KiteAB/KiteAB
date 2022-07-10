@@ -1,4 +1,4 @@
-### 👋 Hi there!
+## 👋 Hi there!
 
 I'm K1t3AB (Sometimes as `KiteAB`), a student studying in a middle school in Hunan, China.
 
@@ -8,14 +8,14 @@ Telegram Group: `@KiteAB_Group` (Channel `@KiteAB_Channel` for announcements)
 
 ---
 
-#### 📣 Notices
+### 📣 Notices
 
 - The configuration file of GNU/Emacs is remaking.
 - Archiving repositories.
 
 ---
 
-#### ℹ️ Stats
+### ℹ️ Stats
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KiteAB&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="K1t3AB's GitHub Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiteAB&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -30,7 +30,7 @@ Kotlin   5 mins          ██████████████████�
 
 ---
 
-#### 💻 Workspaces
+### 💻 Workspaces
 
 ![CPU](https://img.shields.io/badge/AMD-Ryzen_5_4500U_with_Radeon_Graphics-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
@@ -56,7 +56,7 @@ Kotlin   5 mins          ██████████████████�
 
 ---
 
-#### 🧑‍💻 Main Programming Languages
+### 🧑‍💻 Main Programming Languages
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -66,14 +66,14 @@ Kotlin   5 mins          ██████████████████�
 
 ---
 
-#### 🕹  Games
+### 🕹  Games
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/KiteAB)
 ![Minecraft](https://img.shields.io/badge/KiteAB-green?style=for-the-badge&logo=Minecraft&logoColor=white)
 
 ---
 
-#### 📱 Find Me
+### 📱 Find Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KiteAB)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/K1t3AB)
