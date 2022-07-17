@@ -23,8 +23,7 @@ Telegram Group: `@KiteAB_Group` (Channel `@KiteAB_Channel` for announcements)
 <!--START_SECTION:waka-->
 
 ```text
-Emacs Lisp   1 hr 29 mins    ███████████████████████▓░   94.44 %
-Kotlin       5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+Emacs Lisp   1 hr 29 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
