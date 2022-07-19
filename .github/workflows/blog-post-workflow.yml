@@ -14,4 +14,4 @@ jobs:
       - name: Pull posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.kiteab.me/index.xml"
+          feed_list: "https://blog.kiteab.me/index.xml"
