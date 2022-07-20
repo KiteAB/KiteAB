@@ -33,7 +33,7 @@ Kotlin       1 min           ████▓░░░░░░░░░░░░
 
 ### 💻 Workspaces
 
-![CPU](https://img.shields.io/badge/AMD-Ryzen_5_4500U_with_Radeon_Graphics-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![CPU](https://img.shields.io/badge/AMD-Ryzen_5_4500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-lightblue?style=for-the-badge&logo=KDE)
 ![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
