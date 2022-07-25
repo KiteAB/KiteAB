@@ -92,9 +92,9 @@ Markdown     0 secs          ████▒░░░░░░░░░░░░
 #### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Xah Fly Keys 与 Magit 的组合方案 &lpar;Deprecated&rpar;](https://blog.kiteab.me/posts/emacs-xah-magit/)
-- [Arch 上的备份还原](https://blog.kiteab.me/posts/arch-backup-forward/)
-- [记一次系统出错及备份过程](https://blog.kiteab.me/posts/arch-backup/)
-- [Arch Linux 常用软件](https://blog.kiteab.me/posts/arch-software/)
-- [Colemak 学习笔记](https://blog.kiteab.me/posts/colemak/)
+- [Xah Fly Keys 与 Magit 的组合方案 &lpar;Deprecated&rpar;](https://blog.kiteab.me/emacs-xah-magit/)
+- [Arch 上的备份还原](https://blog.kiteab.me/arch-backup-forward/)
+- [记一次系统出错及备份过程](https://blog.kiteab.me/arch-backup/)
+- [Arch Linux 常用软件](https://blog.kiteab.me/arch-software/)
+- [Colemak 学习笔记](https://blog.kiteab.me/colemak/)
 <!-- BLOG-POST-LIST:END -->
