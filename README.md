@@ -30,9 +30,7 @@ Telegram Group: `@KiteAB_Group` (Channel `@KiteAB_Channel` for announcements)
 <!--START_SECTION:waka-->
 
 ```text
-YAML         1 min           ███████████████▒░░░░░░░░░   60.99 %
-Emacs Lisp   0 secs          █████▒░░░░░░░░░░░░░░░░░░░   21.43 %
-Markdown     0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.58 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
