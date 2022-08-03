@@ -24,8 +24,9 @@ Telegram Group: `@KiteAB_Group` (Channel `@KiteAB_Channel` for announcements)
 
 ### ℹ️ Stats
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KiteAB&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="K1t3AB's GitHub Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiteAB&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-| ------------- | ------------- |
+<!--| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KiteAB&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="K1t3AB's GitHub Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiteAB&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| ------------- | ------------- |-->
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 <!--START_SECTION:waka-->
 
