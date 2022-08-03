@@ -18,7 +18,7 @@ Telegram Group: `@KiteAB_Group` (Channel `@KiteAB_Channel` for announcements)
 ### 🔑 Public Keys
 
 - [SSH Public Key (ED25519)](https://gist.githubusercontent.com/KiteAB/4b6095b69496b6e2b4d2d39067fca539/raw/f928993924f107b13836ba4ac974c1e4eb194278/SSH%2520Public%2520Key)
-- [GPG Public Key (For commits & emails)](https://gist.githubusercontent.com/KiteAB/c9e010259945b3592c63fd06b65552a9/raw/74b8ba3e77845a5e971db62598ef0a095c99f7d6/GPG%2520Public%2520Key)
+- [GPG Public Key (For commits & emails)](https://github.com/KiteAB.gpg)
 
 ---
 
