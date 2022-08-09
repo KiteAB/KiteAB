@@ -31,12 +31,8 @@ Telegram Group: `@KiteAB_Group` (Channel `@KiteAB_Channel` for announcements)
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   48 mins         █████████▒░░░░░░░░░░░░░░░   37.66 %
-Kotlin     31 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.82 %
-tmux       22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.78 %
-Bash       15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %
-Text       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-sh         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Markdown         1 hr 37 mins    ███████▓░░░░░░░░░░░░░░░░░   30.92 %
+Other            1 hr 28 mins    ███████░░░░░░░░░░░░░░░░░░   28.15 %
 ```
 
 <!--END_SECTION:waka-->
