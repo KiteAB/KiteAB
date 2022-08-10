@@ -81,7 +81,7 @@ Other            1 hr 37 mins    ███████░░░░░░░░�
 ### 🕹  Games
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/KiteAB)
-![Minecraft](https://img.shields.io/badge/KiteAB-green?style=for-the-badge&logo=Minecraft&logoColor=white)
+![Minecraft](https://img.shields.io/badge/K1t3AB-green?style=for-the-badge&logo=Minecraft&logoColor=white)
 
 ---
 
