@@ -31,8 +31,7 @@ Telegram Group: `@KiteAB_Group` (Channel `@KiteAB_Channel` for announcements)
 <!--START_SECTION:waka-->
 
 ```text
-Markdown         1 hr 37 mins    ███████▓░░░░░░░░░░░░░░░░░   30.92 %
-Other            1 hr 28 mins    ███████░░░░░░░░░░░░░░░░░░   28.15 %
+Other            1 hr 37 mins    ███████░░░░░░░░░░░░░░░░░░   28.62 %
 ```
 
 <!--END_SECTION:waka-->
