@@ -4,6 +4,8 @@ I'm `K1t3AB` (Sometimes as `KiteAB`), a student studying in a middle school in H
 
 Telegram Group: `@KiteAB_Group` (Channel `@KiteAB_Channel` for announcements)
 
+DN42 Information is in [GitHub Gist](https://gist.github.com/KiteAB/cd2d96b72fecdd490eb346d8ded50d19), peering is welcome **(Contact me first)**
+
 **⭐IMPORTANT⭐: Most archived repositories are VERY UNSTABLE or even UNUSABLE! Please look for another repositories to replace them, or test them carefully before using them.**
 
 ---
@@ -17,7 +19,7 @@ Telegram Group: `@KiteAB_Group` (Channel `@KiteAB_Channel` for announcements)
 
 ### 🔑 Public Keys
 
-- [SSH Public Key (ED25519)](https://gist.githubusercontent.com/KiteAB/4b6095b69496b6e2b4d2d39067fca539/raw/f928993924f107b13836ba4ac974c1e4eb194278/SSH%2520Public%2520Key)
+- [SSH Public Key (ED25519)](https://gist.github.com/KiteAB/4b6095b69496b6e2b4d2d39067fca539)
 - [GPG Public Key (For commits & emails)](https://github.com/KiteAB.gpg)
 
 ---
