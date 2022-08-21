@@ -1,6 +1,5 @@
 ## 👋 Hi there!
-
-I'm `K1t3AB` (Sometimes as `KiteAB`), a student studying in a middle school in Hunan, China.
+I'm `K1t3AB` (Sometimes as `KiteAB`), a student studying in a middle school in China Mainland.
 
 Telegram Group: `@KiteAB_Group` (Channel `@KiteAB_Channel` for announcements)
 
@@ -11,21 +10,18 @@ DN42 Information is in [GitHub Gist](https://gist.github.com/KiteAB/cd2d96b72fec
 ---
 
 ### 📣 Notices
-
 - The configuration file of GNU/Emacs is remaking.
 - Archiving repositories.
 
 ---
 
 ### 🔑 Public Keys
-
 - [SSH Public Key (ED25519)](https://gist.github.com/KiteAB/4b6095b69496b6e2b4d2d39067fca539)
 - [GPG Public Key (For commits & emails)](https://github.com/KiteAB.gpg)
 
 ---
 
 ### ℹ️ Stats
-
 <!--| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KiteAB&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="K1t3AB's GitHub Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiteAB&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |-->
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
@@ -44,7 +40,6 @@ Other            6 mins          ▓░░░░░░░░░░░░░░�
 ---
 
 ### 💻 Workspaces
-
 ![CPU](https://img.shields.io/badge/AMD-Ryzen_5_4500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-lightblue?style=for-the-badge&logo=KDE)
@@ -74,7 +69,6 @@ Other            6 mins          ▓░░░░░░░░░░░░░░�
 ---
 
 ### 🧑‍💻 Main Programming Languages
-
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -84,14 +78,12 @@ Other            6 mins          ▓░░░░░░░░░░░░░░�
 ---
 
 ### 🕹  Games
-
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/KiteAB)
 ![Minecraft](https://img.shields.io/badge/K1t3AB-green?style=for-the-badge&logo=Minecraft&logoColor=white)
 
 ---
 
 ### 📱 Find Me
-
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KiteAB)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/K1t3AB)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:kiteab233@proton.me)
@@ -99,9 +91,7 @@ Other            6 mins          ▓░░░░░░░░░░░░░░�
 
 ---
 
-
 #### 📕 Latest Blog Posts
-
 <!-- BLOG-POST-LIST:START -->
 - [Arch 上的备份还原](https://blog.kiteab.me/arch-backup-forward/)
 - [Arch Linux 常用软件](https://blog.kiteab.me/arch-software/)
