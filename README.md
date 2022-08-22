@@ -29,10 +29,10 @@ DN42 Information is in [GitHub Gist](https://gist.github.com/KiteAB/cd2d96b72fec
 <!--START_SECTION:waka-->
 
 ```text
-Markdown         2 hrs 47 mins   ██████████████████▓░░░░░░   75.24 %
-Kotlin           36 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.60 %
-INI              7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-Other            6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Markdown         2 hrs 48 mins   ██████████████████▒░░░░░░   73.95 %
+Kotlin           36 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.22 %
+INI              7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+Other            4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 ```
 
 <!--END_SECTION:waka-->
