@@ -10,8 +10,7 @@ DN42 Information is in [GitHub Gist](https://gist.github.com/KiteAB/cd2d96b72fec
 ---
 
 ### 📣 Notices
-- The configuration file of GNU/Emacs is remaking.
-- Archiving repositories.
+- *Enjoying* school life
 
 ---
 
