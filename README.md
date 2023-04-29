@@ -11,6 +11,7 @@ DN42 Information is in [GitHub Gist](https://gist.github.com/KiteAB/cd2d96b72fec
 
 ### 📣 Notices
 - *Enjoying* school life
+- Be interested in many things outside of computer science may causes pauses in coding
 
 ---
 
