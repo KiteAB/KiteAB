@@ -29,11 +29,11 @@ DN42 Information is in [GitHub Gist](https://gist.github.com/KiteAB/cd2d96b72fec
 <!--START_SECTION:waka-->
 
 ```text
-Other        3 hrs 53 mins   ████████████████░░░░░░░░░   63.80 %
-conf         1 hr 19 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.79 %
-desktop      33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
-Emacs Lisp   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-Vim Script   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Other        3 hrs 53 mins   ████████████████▓░░░░░░░░   66.60 %
+conf         1 hr 12 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.74 %
+desktop      33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
+Emacs Lisp   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+C            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
