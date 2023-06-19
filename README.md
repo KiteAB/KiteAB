@@ -29,7 +29,8 @@ DN42 Information is in [GitHub Gist](https://gist.github.com/KiteAB/cd2d96b72fec
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Batchfile   4 mins          ██████████████████▓░░░░░░   74.22 %
+Bash        1 min           ██████▒░░░░░░░░░░░░░░░░░░   25.78 %
 ```
 
 <!--END_SECTION:waka-->
